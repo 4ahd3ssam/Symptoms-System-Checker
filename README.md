@@ -22,9 +22,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 python app.py
 ```
-
-```bash
 ### Frontend
+```bash
 cd frontend
 npm install
 npm run dev
