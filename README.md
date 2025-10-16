@@ -7,7 +7,7 @@ This is a full-stack web application built with:
 ## Setup Instructions
 ### Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Symptom-System-Checker.git
+git clone https://github.com/<your-username>/Symptoms-System-Checker.git
 cd my-proj
 ```
 
